@@ -10,5 +10,5 @@ func main() {
 
 	flag.Parse()
 
-	fmt.Println(n)
+	fmt.Println("hi", *n)
 }
